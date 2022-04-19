@@ -1,2 +1,6 @@
-# dio-git-github-desafio
-Desafio de Projeto sobre Git/GitHub
+# DIO Desafio de Projeto Git/GitHub
+## Primeiro Repositório:
+### Exercícios - Curso de Java Básico Loiane Groner
+
+## Links Úteis
+[Loiane Training](https://loiane.training/)
